@@ -1,1 +1,4 @@
-print ("hello ,Edgar Lets do this")
+def hello():
+    print("baluku")
+    
+   
