@@ -1,4 +1,3 @@
-def hello():
-    print("baluku")
+#a simple print statement
+print("baluku")
     
-   
