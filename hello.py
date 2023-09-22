@@ -1,3 +1,8 @@
-#a simple print statement
-print("baluku")
-    
+
+def hello(to):
+    print("hello,", to)
+
+
+name = input("what's your name?")    
+hello()
+print(name)
