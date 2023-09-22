@@ -4,5 +4,4 @@ def hello(to):
 
 
 name = input("what's your name?")    
-hello()
-print(name)
+hello(name)
