@@ -1,6 +1,12 @@
-x =int(input("what is x?"))
+def main():
+    x =int(input("whats x?"))
 
-if x % 2 == 0:
-    print("Even")
-else:
-    print ("Odd")    
+    if is_evenFUN(x):
+       print("Even")
+    else:
+       print("Odd")
+
+def is_evenFUN(n):
+    return  n%2 ==0 
+   
+main()   
