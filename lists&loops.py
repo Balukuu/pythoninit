@@ -15,5 +15,5 @@ print("\nSum of elements in the list:", sum_result)
 # Using a loop to create a new list with squared elements
 squared_numbers = []
 for number in numbers:
-    squared_numbers.append(number ** 2)
+    squared_numbers.append(number ** 4)
 print("\nSquared elements of the list:", squared_numbers)
